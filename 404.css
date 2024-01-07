@@ -1,0 +1,17 @@
+h1 {
+    font-family: Courier New;
+    color: Black;
+    text-align: center;
+}
+
+p {
+    font-family: Courier New;
+    color: Blue;
+    text-align: center;
+    font-size: 10px;
+}
+
+body {
+background: rgb(238,174,174);
+background: radial-gradient(circle, rgba(238,174,174,1) 0%, rgba(209,20,20,1) 0%, rgba(41,255,0,1) 54%, rgba(217,107,136,1) 100%, rgba(137,242,137,1) 100%);
+}
